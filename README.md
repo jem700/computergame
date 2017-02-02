@@ -72,5 +72,56 @@ class ComputerQuizGame
  //   System.out.println("you are right!");
   }
   }
+  System.out.println("you just finished a level would you like to continue unto the next level?");
+  String answer2 = In.getString();
+  if( answer2.equalsIgnoreCase(("yes"));
+  {
+System.out.println("moving on to level 2 !!");
+}
+ public static void String level2question1();
+  {
+    System.out.println("what shape would you use if youwant to ask a question on a flow chart? rectangle or diamond");
+  String ans6 = In.getString();
+  if (ans6.equalsIgnoreCase(("diamond"));
+  {
+    System.out.println("you are right!");
+  }
+  }
+   public static void String level2question2();
+  {
+    System.out.println("what shape would you use if youwant to ask a question on a flow chart? rectangle or diamond");
+  String ans6 = In.getString();
+  if (ans6.equalsIgnoreCase(("diamond"));
+  {
+    System.out.println("you are right!");
+  }
+  }
+   public static void String level2question3();
+  {
+    System.out.println("what shape would you use if youwant to ask a question on a flow chart? rectangle or diamond");
+  String ans6 = In.getString();
+  if (ans6.equalsIgnoreCase(("diamond"));
+  {
+    System.out.println("you are right!");
+  }
+   public static void String level4question1();
+  {
+    System.out.println("what shape would you use if youwant to ask a question on a flow chart? rectangle or diamond");
+  String ans6 = In.getString();
+  if (ans6.equalsIgnoreCase(("diamond"));
+  {
+    System.out.println("you are right!");
+  }
+   public static void String level2question5();
+  {
+    System.out.println("what shape would you use if youwant to ask a question on a flow chart? rectangle or diamond");
+  String ans6 = In.getString();
+  if (ans6.equalsIgnoreCase(("diamond"));
+  {
+    System.out.println("you are right!");
+  }
+ 
+  
+  }
 }
   
